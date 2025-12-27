@@ -1,5 +1,5 @@
 # How it started
-Late 2025, I came across a Taobao listing that was selling a UHF RFID Reader for less than 10USD, this is fairly uncommon as most readers go for 15+usd onwards. I decided to buy one to add to my reader collection.<br>
+Late 2025, I came across a Taobao listing that was selling a UHF RFID Reader for less than 10USD, this is fairly uncommon as most readers go for 15+usd onwards. I decided to buy one to add to my reader collection. (I ended up buying 6 units)<br>
 
 <img src="./imgs/Taobao_listing.png" alt="drawing" width="600"><br>
 
@@ -85,7 +85,7 @@ Using KiCad, the schematic is then redrawn with their component values. In this 
 
 <img src="./imgs/Schematic.png" alt="drawing" width="800"><br>
 
-Schematics are released in in the schematic directory of this repo.
+Schematics are released in the schematic directory of this repo.
 
 # Impedance Matching of RF Trace
 When recreating the PCB, KiCad's Calculator Tools and JLCPCB's Capabilities are used to calculate trace width and spacing for the RF trace line.
