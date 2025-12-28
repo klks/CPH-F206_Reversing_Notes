@@ -94,7 +94,7 @@ When recreating the PCB, KiCad's Calculator Tools and JLCPCB's Capabilities are 
 <img src="./imgs/KiCad_Calculator.png" alt="drawing" width="400"><br>
 
 # Ordering & Testing PCB
-After weeks of tracing and schematic drawing, PCB's are sent for fabrication.<br>
+After weeks of tracing and schematic drawing, PCB's are sent for fabrication. When placing components, i mimicked the layout of the original board, this was done to make circuit debugging easier<br>
 <img src="./imgs/JLCPCB_PCB.png" alt="drawing" width="400"><br>
 Below is a size comparison of the original and recreated PCB.<br>
 <img src="./imgs/PCB_Size_Comparison.jpg" alt="drawing" width="400"><br>
@@ -102,5 +102,5 @@ After soldering all the components, the original MCU was soldered on for testing
 Going back to the drawing board, a few components had to be re-measured from another working reader and a few mistakes were identified. At his point an oscilloscope was used to debug the circuit using references from a functional reader. After fixing mis-typed components and much experimenting, the reader works!.<br>
 <img src="./imgs/PCB_Recreated.jpg" alt="drawing" width="400"><br>
 One area that needs to be studied more is the matching network and filter sections as the current PCB isn't as fast/sensitive enough at picking up tags vs the original reader.<br>
-In v0.2 of the schematic, additional capacitors were added to the 5V rail.<br>
+In v0.2 of the schematic, additional capacitors were added to the 5V rail. Also fixed incorrectly measured value for some components.<br>
 
