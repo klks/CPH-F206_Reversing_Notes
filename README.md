@@ -59,7 +59,7 @@ Identification of parts took a while as finding parts with the same name was cha
 | 1F | 45 V, 100 mA NPN/NPN general-purpose transistor | [Datasheet](https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf) |
 | -V4 | 2-ch, 1.65-V to 5.5-V inverters | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lvc2g04.pdf) |
 | AM | NPN switching transistor | [Datasheet](https://www.onsemi.com/pdf/datasheet/mmbt3904wt1-d.pdf) |
-| G4B | RF Pin Diode | No exact match found, the closest is [BAR6405](https://www.infineon.com/assets/row/public/documents/24/49/infineon-bar64-05-ds-en.pdf)
+| G4B | RF Pin Diode? | No exact match found, the closest is [BAR6405](https://www.infineon.com/assets/row/public/documents/24/49/infineon-bar64-05-ds-en.pdf)<br>A [BAV70](https://assets.nexperia.com/documents/data-sheet/BAV70.pdf) also works and is easier to get
 | N933 | 500mA uCap Ultra-Low Dropout, High PSRR LDO Regulator | [Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/500mA-uCap-Ultra-Low-Dropout-Regulator-with-High-PSRR-DS20005876B.pdf) |
 
 For the Si4463 matching and filter network, the datasheet was used to identify the nominal values.
