@@ -55,11 +55,11 @@ Identification of parts took a while as finding parts with the same name was cha
 | --- | ---| --- |
 | N32G435 | | MCU <br> [Datasheet](https://www.nsing.com.sg/uploads/DS/EN_DS_N32G435.pdf) |
 | Si4463 | | RF Transceiver <br> [Datasheet](https://www.silabs.com/documents/public/data-sheets/Si4463-61-60-C.pdf)|
-| 84t | 40 V, 200 mA Schottky barrier dual diode | [Datasheet](https://assets.nexperia.com/documents/data-sheet/BAT854SW-Q.pdf) |
+| 87t | Schottky barrier diode |  No exact match found, the closest is [BAT54S](https://assets.nexperia.com/documents/data-sheet/BAT54S.pdf) |
 | 1F | 45 V, 100 mA NPN/NPN general-purpose transistor | [Datasheet](https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf) |
-| -V4 | 2-ch, 1.65-V to 5.5-V inverters | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lvc2g04.pdf) |
-| AM | NPN switching transistor | [Datasheet](https://www.onsemi.com/pdf/datasheet/mmbt3904wt1-d.pdf) |
-| G4B | RF Pin Diode? | No exact match found, the closest is [BAR6405](https://www.infineon.com/assets/row/public/documents/24/49/infineon-bar64-05-ds-en.pdf)<br>A [BAV70](https://assets.nexperia.com/documents/data-sheet/BAV70.pdf) also works and is easier to get
+| -V4 | 2-ch, 1.65-V to 5.5-V inverters | [SN74LVC2G04](https://www.ti.com/lit/ds/symlink/sn74lvc2g04.pdf) |
+| AM | NPN switching transistor | [MMBT3904](https://www.onsemi.com/pdf/datasheet/mmbt3904wt1-d.pdf) |
+| G4B | RF Switching Diode | No exact match found, the closest is [BAV70](https://assets.nexperia.com/documents/data-sheet/BAV70.pdf)
 | N933 | 500mA uCap Ultra-Low Dropout, High PSRR LDO Regulator | [Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/500mA-uCap-Ultra-Low-Dropout-Regulator-with-High-PSRR-DS20005876B.pdf) |
 
 For the Si4463 matching and filter network, the datasheet was used to identify the nominal values.
