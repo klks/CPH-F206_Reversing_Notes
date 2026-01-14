@@ -55,7 +55,7 @@ Identification of parts took a while as finding parts with the same name was cha
 | --- | ---| --- |
 | N32G435 | | MCU <br> [Datasheet](https://www.nsing.com.sg/uploads/DS/EN_DS_N32G435.pdf) |
 | Si4463 | | RF Transceiver <br> [Datasheet](https://www.silabs.com/documents/public/data-sheets/Si4463-61-60-C.pdf)|
-| 87t | Schottky barrier diode |  No exact match found, the closest is [BAT54S](https://assets.nexperia.com/documents/data-sheet/BAT54S.pdf) |
+| 87t | Planar Schottky barrier diode |  [1PS70SB84](https://assets.nexperia.com/documents/data-sheet/1PS70SB82_84_85_86.pdf) (Obsolete), the closest is [BAT54S](https://assets.nexperia.com/documents/data-sheet/BAT54S.pdf) |
 | 1F | 45 V, 100 mA NPN/NPN general-purpose transistor | [Datasheet](https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf) |
 | -V4 | 2-ch, 1.65-V to 5.5-V inverters | [SN74LVC2G04](https://www.ti.com/lit/ds/symlink/sn74lvc2g04.pdf) |
 | AM | NPN switching transistor | [MMBT3904](https://www.onsemi.com/pdf/datasheet/mmbt3904wt1-d.pdf) |
